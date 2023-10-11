@@ -5,20 +5,20 @@
 ###############################################################################
 
 # Authors    ################################################################## 
-# Jinseok Kim (Ph.D., Survey Research Center & School of Information, University of Michigan Ann Abror)
+# Jinseok Kim (Ph.D., Survey Research Center & School of Information, University of Michigan Ann Arbor)
 # Jenna Kim (Doctoral Student, School of Information, University of Illinois at Urbana-Champaign)
 # Joelle Abramowitz (Ph.D., Survey Research Center, University of Michigan)
 ###############################################################################
 
 # Acknowledgement #############################################################
 # Sponsor: Michigan Retirement and Disability Research Center (MRDRC)
-# Grant Number: UM21-14 “What We Talk about When We Talk about Self-employment: Examining Selfemployment and the Transition to Retirement among Older Adults in the United States”
+# Grant Number: UM21-14 “What We Talk about When We Talk about Self-employment: Examining Self-employment and the Transition to Retirement among Older Adults in the United States”
 # PI: Joelle Abramowitz; co-PI: Jinseok Kim
 # Project Period: 10/2020 ~ 09/2021
 ###############################################################################
 
 ###########################
-# License: CC BY-NC 2.0 ###
+# License: MIT          ###
 ###########################
 
 import pandas as pd
