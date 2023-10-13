@@ -14,7 +14,11 @@ The classification code sets – Classification of Narratives in Survey Data (C-
 Acknowledgment
 
 This tool was developed under a grant from Michigan Retirement and Disability Research Center (MRDRC)
+
 Grant Number: UM21-14
+
 Title: “What We Talk about When We Talk about Self-employment: Examining Self-employment and the Transition to Retirement among Older Adults in the United States”
+
 PI: Joelle Abramowitz (Survey Research Center, University of Michigan); co-PI: Jinseok Kim (Survey Research Center & School of Information, University of Michigan)
+
 Project Period: 10/2020 ~ 09/2021
